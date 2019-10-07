@@ -1,4 +1,4 @@
-# Android Keepass DX
+# Android KeeNotes DX
 
 <img src="https://raw.githubusercontent.com/NuvemCorp/KeeNotesDX/master/art/icon.png"> KeeNotes DX is a **Note taking application based on KeePassDX codebase**. The application allows to create notes in a secure way by integrating with the Android design standards.
 
@@ -69,8 +69,8 @@ Not ideal, but those are some alternatives that can opens .kdbx databases on you
   along with KeeNotes DX.  If not, see <http://www.gnu.org/licenses/>.
   
   *This project is a fork of [KeePassDX](https://github.com/Kunzisoft/KeePassDX) by Kunzisoft.*
-  
-  Which is a fork of:   
-  *This project is a fork of [KeepassDroid](https://github.com/bpellin/keepassdroid) by bpellin.*
+
+ 
+  *Which is a fork of [KeepassDroid](https://github.com/bpellin/keepassdroid) by bpellin.*
   
   #OpenSourceRules
