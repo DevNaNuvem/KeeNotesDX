@@ -1,35 +1,31 @@
 # Android Keepass DX
 
-<img src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png"> Keepass DX is a **multi-format KeePass manager for Android devices**. The application allows to create keys and passwords in a secure way by integrating with the Android design standards.
+<img src="https://raw.githubusercontent.com/NuvemCorp/KeeNotesDX/master/art/icon.png"> KeeNotes DX is a **Note taking application based on KeePassDX codebase**. The application allows to create notes in a secure way by integrating with the Android design standards.
 
-<img src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/screen.jpg" width="220">
+<img src="https://raw.githubusercontent.com/NuvemCorp/KeeNotesDX/master/art/screen.jpg" width="220">
 
 ### Features
 
- * Create database files / entries and groups
+ * Create database files
+ * Create notes
  * Support for **.kdb** and **.kdbx** files (version 1 to 4) with AES - Twofish - ChaCha20 - Argon2 algorithm
  * **Compatible** with the majority of alternative programs (KeePass, KeePassX, KeePass XC...)
- * Allows **fast copy** of fields and opening of URI / URL
  * **Fingerprint** for fast unlocking
  * Material design with **themes**
- * **AutoFill** and Integration
- * Field filling **keyboard**
  * Precise management of **settings**
  * Code written in **native language** *(Kotlin / Java / JNI / C)*
 
-Keepass DX is **open source** and **ad-free**. 
+KeeNotes DX is **open source** and **ad-free**. 
 
-## What is KeePass DX?
+## What is KeeNotes DX?
 
-Today you need to remember many passwords. You need a password for your e-mail account, your website's FTP password, online passwords (like website member account), etc. etc. etc. The list is endless. Also, you **should use different passwords for each account**. Because if you use only one password everywhere and someone gets this password you have a problem... A serious problem. The thief would have access to your e-mail account, website, etc. Unimaginable.
+It's a simple notes taking app, no cloud connection, no homecalling. It stores your notes inside an encrypted file based database giving you security and control over your notes.
 
-KeePass DX is a **free open source password manager for Android**, which helps you to **manage your passwords in a secure way**. You can put all your passwords in one database, which is locked with one **master key** or a **key file**. So you **only have to remember one single master password or select the key file** to unlock the whole database. The databases are encrypted using the best and **most secure encryption algorithms** currently known.
+KeeNotes DX is a **free open source note taking app for Android**, which helps you to **manage your daily thoughts in a secure way**. You can put all your notes in one single database file, which is locked with one **master key** or a **key file**. The databases are encrypted using the best and **most secure encryption algorithms** currently known.
 
 ## Is it really free?
 
-Yes, KeePass DX is under **free license (OSI certified)** and **without advertising**. You can have a look at its full source and check whether the encryption algorithms are implemented correctly.
-
-*Note : If you access the application from a store, visual features may not be available to incentivize the contribution to the work of open source projects. These optional visuals are accessible after a donation (and a small congratulation message :) or the purchase of an extended version, but do not worry, the main features remain completely free. If you contribute to the project and you do not have access to the themes, do not hesitate to contact me at [contact@kunzisoft.com](contact@kunzisoft.com), I will give you the procedure.*
+Yes, KeeNotes DX is under **free license (OSI certified)** and **without advertising**. You can have a look at its full source and check whether the encryption algorithms are implemented correctly.
 
 ## Contributions
 
