@@ -69,6 +69,8 @@ Not ideal, but those are some alternatives that can opens .kdbx databases on you
   along with KeeNotes DX.  If not, see <http://www.gnu.org/licenses/>.
   
   *This project is a fork of [KeePassDX](https://github.com/Kunzisoft/KeePassDX) by Kunzisoft.*
-  Which is a fork of: 
   
+  Which is a fork of:   
   *This project is a fork of [KeepassDroid](https://github.com/bpellin/keepassdroid) by bpellin.*
+  
+  #OpenSourceRules
