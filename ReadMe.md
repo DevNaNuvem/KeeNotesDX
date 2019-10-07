@@ -33,26 +33,19 @@ You can contribute in different ways to help us on our work.
 
 * Add features by a **[pull request](https://help.github.com/articles/about-pull-requests/)**.
 * Help to **[translate](https://hosted.weblate.org/projects/keepass-dx/strings/)** into your language (By using [Weblate](https://hosted.weblate.org/projects/keepass-dx/) or with a manual [pull request](https://help.github.com/articles/about-pull-requests/))
-* **[Donate](https://www.kunzisoft.com/donation)**  人◕ ‿‿ ◕人Y for a better service and a quick development of your features.
-* Buy the **[Pro version](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.pro)** of KeePass DX
+* **[Donate](https://www.kunzisoft.com/donation)** kunzisoft are the developers of the KeePass DX codebase and are the real genius behind this project, support them!
 
 ## Download
 
-*We recommend the installation from [F-Droid](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/) which verifies that all libraries and application code are open source.*
+Under development
 
-[<img src="https://f-droid.org/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="80">](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
-
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-      alt="Get it on Google Play"
-	height="80">](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
-	
 ## F.A.Q.
 
 Other questions? You can read the [F.A.Q.](https://www.keepassdx.com/FAQ) 
 	
 ## Other devices
+
+Not ideal, but those are some alternatives that can opens .kdbx databases on your other devices.
 
 - [KeePass XC](https://keepassxc.org/) (https://keepassxc.org/) works with **GNU/Linux**, **Mac** and **Windows**, is updated regularly and under the terms of the GNU General Public License. This is the recommended version for computers.
 
@@ -60,21 +53,22 @@ Other questions? You can read the [F.A.Q.](https://www.keepassdx.com/FAQ)
 
 ## License
 
- Copyright (c) 2019 Jeremy Jamet / [Kunzisoft](https://www.kunzisoft.com).
+ This file is part of KeeNotes DX.
 
- This file is part of KeePass DX.
-
-  [KeePass DX](https://www.keepassdx.com) is free software: you can redistribute it and/or modify
+  [KeeNotes DX] is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.
 
-  KeePass DX is distributed in the hope that it will be useful,
+  KeeNotes DX is distributed in the hope that it will be useful,
   but WITHOUT ANY WARRANTY; without even the implied warranty of
   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with KeePass DX.  If not, see <http://www.gnu.org/licenses/>.
+  along with KeeNotes DX.  If not, see <http://www.gnu.org/licenses/>.
+  
+  *This project is a fork of [KeePassDX](https://github.com/Kunzisoft/KeePassDX) by Kunzisoft.*
+  Which is a fork of: 
   
   *This project is a fork of [KeepassDroid](https://github.com/bpellin/keepassdroid) by bpellin.*
