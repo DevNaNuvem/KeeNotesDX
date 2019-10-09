@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/NuvemCorp/KeeNotesDX/develop/art/icon.png"> KeeNotes DX is a **Note taking application based on KeePassDX codebase**. The application allows to create notes in a secure way by integrating with the Android design standards.
 
 <img src="https://raw.githubusercontent.com/NuvemCorp/KeeNotesDX/develop/art/screen.jpg" width="220">
+<img src="https://raw.githubusercontent.com/NuvemCorp/KeeNotesDX/develop/art/screen-dark.jpg" width="220">
 
 ### Features
 
