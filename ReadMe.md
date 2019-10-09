@@ -34,7 +34,7 @@ You can contribute in different ways to help us on our work.
 * Rebrand our logo following the concept. (We are terrible designers, **sorry!**)
 * Add features by a **[pull request](https://help.github.com/articles/about-pull-requests/)**.
 * Help to **[translate](https://hosted.weblate.org/projects/keepass-dx/strings/)** into your language (By using [Weblate](https://hosted.weblate.org/projects/keepass-dx/) or with a manual [pull request](https://help.github.com/articles/about-pull-requests/))
-* **[Donate](https://www.kunzisoft.com/donation)** kunzisoft are the developers of the KeePass DX codebase and are the real genius behind this project, support them!
+* **[Donate:](https://www.kunzisoft.com/donation)** kunzisoft are the developers of the KeePass DX codebase and are the real genius behind this project, support them!
 
 ## Download
 
